@@ -1,16 +1,12 @@
-### Hello this is Ravi Varma 👋
+### Hey there👋
+### This is Ravi Varma
 
-<!--
-**raviv7396/raviv7396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Custom roms, Full-stack development. 
+- 🌱 I’m currently learning Android Development.
+- 👯 I’m looking to collaborate on tips and guide to improve my skills.
+- 🤔 I’m looking for help with errors which couldn't debug.
+- 💬 Ask me about technology!
+- 📫 How to reach me: Telegram - [@Ravivarma0802](https://t.me/Ravivarma0802)
+- 😄 Pronouns: Ravi/Varma/Ravi Varma
+- ⚡ Fun fact: Everyone's privacy is hidden😄!
